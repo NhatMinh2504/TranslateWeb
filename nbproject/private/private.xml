@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="PRO">
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/translateWeb.jsp</file>
+        </group>
+        <group name="csd201">
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/src/java/controller/VocabController.java</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/common/homePage/header-mid-area.jsp</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/src/java/dal/AccountDAO.java</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/common/homePage/mobile-menu-area.jsp</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/src/java/dal/VocabularyDAO.java</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/admin/dashboardPending.jsp</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/common/homePage/main-menu-area.jsp</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/common/homePage/header-top-area.jsp</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/src/java/entity/Vocabulary.java</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/admin/editVocabModal.jsp</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/admin/dashboard.jsp</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/admin/addVocabModal.jsp</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/common/homePage/breadcrumbs-area.jsp</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/src/java/controller/AuthenticationController.java</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/src/java/controller/DashBoardController.java</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/common/homePage/footer.jsp</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/translateWeb.jsp</file>
+            <file>file:/C:/Users/DELL/javaWeb/TranslateWeb/web/view/authen/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>

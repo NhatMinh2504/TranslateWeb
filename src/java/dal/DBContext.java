@@ -17,6 +17,7 @@ import java.util.logging.Logger;
  */
 public class DBContext {
     protected Connection connection;
+    
     public DBContext()
     {
         //@Students: You are allowed to edit user, pass, url variables to fit 
@@ -28,7 +29,7 @@ public class DBContext {
         try {
             String user = "sa";
             String pass = "123";
-            String url = "jdbc:sqlserver://localhost\\SQLEXPRESS:1433;databaseName=Y23FA2B5";
+            String url = "jdbc:sqlserver://localhost\\SQLEXPRESS:1433;databaseName=TranslateWeb";
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             connection = DriverManager.getConnection(url, user, pass);
         } catch (ClassNotFoundException | SQLException ex) {
